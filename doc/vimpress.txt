@@ -28,12 +28,19 @@
 
 <h2>header123</h2>
 
-Bullets
+Bulleted List
 <ul>
 	<li>sdfsdfsdf</li>
 	<li>sdfsdfsdf</li>
 	<li>sdfsdfsdfs</li>
 	<li>sdfsdf</li>
 </ul>
+
+Numebered List
+<ol>
+	<li>asasas</li>
+	<li>asas</li>
+	<li>asas</li>
+</ol>
 
 <blockquote>quote</blockquote>
