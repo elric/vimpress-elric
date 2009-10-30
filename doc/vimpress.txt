@@ -44,3 +44,14 @@ Numebered List
 </ol>
 
 <blockquote>quote</blockquote>
+
+* Insert Youtube Video
+======================
+
+To embed the video with default width and height adapted to your theme:
+
+[youtube=http://www.youtube.com/watch?v=H2Ncxw1xfck]
+
+To play the high quality video:
+
+[youtube=http://www.youtube.com/watch?v=H2Ncxw1xfck&fmt=18]
